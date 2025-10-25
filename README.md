@@ -1,0 +1,1 @@
+# Tech-Buzzword-Compliance-Checker
